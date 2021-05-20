@@ -1,4 +1,5 @@
 # WeRateDogs Data Wrangling and Analysis
+In this project, we'll be analyzing tweet data, associated with rating dogs based on their photos and videos. The goal is to wrangle data to create interesting and trustworthy analysis and visualizations.
 
 ## Dataset
 The dataset is the tweet archieve of a popular Twitter account WeRateDogs, which rates dogs with humorous comments and has millions of followers. The archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017.  
